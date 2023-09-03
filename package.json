@@ -1,0 +1,22 @@
+{
+  "name": "taller-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jsanchez32/taller-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jsanchez32/taller-api/issues"
+  },
+  "homepage": "https://github.com/Jsanchez32/taller-api#readme",
+  "dependencies": {
+    "superagent": "^8.1.2"
+  }
+}
